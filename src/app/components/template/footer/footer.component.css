@@ -1,0 +1,9 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    justify-content: flex-end;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: gray;
+    height: 5%;
+}
